@@ -4,35 +4,36 @@ The Wbubbler C# package.
 # How to install ?
 To install use one of these following commands: 
  - Package Manager
-   `Install-Package Wbubbler -Version 1.0.2`
+   `Install-Package Mbubbler -Version 1.0.2`
  - .Net CLI
-    `dotnet add package Wbubbler --version 1.0.2`  
+    `dotnet add package Mbubbler --version 1.0.2`  
  - PackageReference
-   `<PackageReference Include="Wbubbler" Version="1.0.2" />`  
+   `<PackageReference Include="Mbubbler" Version="1.0.2" />`  
  - F# interactive
-   `#r "nuget: Wbubbler, 1.0.2"`  
+   `#r "nuget: Mbubbler, 1.0.2"`  
  - Or download the package from NuGet
-   https://www.nuget.org/packages/Wbubbler/  
+   https://www.nuget.org/packages/Mbubbler/  
 # How to use?
 ```csharp
-using Wbubbler;
+using Mbubbler;
 
-namespace Wuse
+namespace Muse
 {
    
     public class Class1
     {
         public void Main()
         {
-            wbu.bbler();
+            mbu.bbler();
+            //mah
         }
     }
 }
 ```
 Or in minified c#
 ```csharp
-using Wbubbler;
-wbu.bbler();
+using Mbubbler;
+mbu.bbler();
 ```
 Or in Visual Basic
 ```vb
@@ -48,15 +49,15 @@ End Module
 ```
 Or in F#
 ```fsharp
-open Wbubbler
+open Mbubbler
 [<EntryPoint>]
 let main argv =
-    wbu.bbler()
+    mbu.bbler()
     0
 ```
 # Copyright
 © SilverDimond - 2021
 
 © forevertoo - 2021
-
+© JMcB - 2021
 forevertoo made the original Node.JS Script and SilverDimond ported it.

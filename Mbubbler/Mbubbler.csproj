@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>mbubbler.png</PackageIcon>
+    <RepositoryUrl>https://github.com/mbubblerteam/mbubblerdotnet</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mbubblerteam/mbubblerdotnet</PackageProjectUrl>
+    <RepositoryType>github</RepositoryType>
+    <Description>The Mbubbler package.</Description>
+    <Copyright>Original code Forevertoo, C# port SilverDimond, Mbubbler art JMcB</Copyright>
+    <Authors>Forevertoo, SilverDimond, JMcB</Authors>
+    <Product>mbubbler</Product>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+</Project>
