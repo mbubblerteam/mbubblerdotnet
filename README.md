@@ -1,6 +1,6 @@
-# wbubblerdotnet
-The Wbubbler C# package.  
-[![CodeFactor](https://www.codefactor.io/repository/github/wbubblerteam/wbubblerdotnet/badge)](https://www.codefactor.io/repository/github/wbubblerteam/wbubblerdotnet)  
+# mbubblerdotnet
+The Mbubbler C# package.  
+[![CodeFactor](https://www.codefactor.io/repository/github/mbubblerteam/mbubblerdotnet/badge)](https://www.codefactor.io/repository/github/mbubblerteam/mbubblerdotnet)
 # How to install ?
 To install use one of these following commands: 
  - Package Manager
@@ -57,7 +57,6 @@ let main argv =
 ```
 # Copyright
 © SilverDimond - 2021
-
 © forevertoo - 2021
 © JMcB - 2021
 forevertoo made the original Node.JS Script and SilverDimond ported it.
