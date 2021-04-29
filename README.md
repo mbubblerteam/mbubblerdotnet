@@ -37,12 +37,12 @@ mbu.bbler();
 ```
 Or in Visual Basic
 ```vb
-Imports Wbubbler
+Imports mbubbler
 
-Module Wuse
+Module Muse
 
     Sub Main()
-        wbu.bbler()
+        mbu.bbler()
     End Sub
 
 End Module
